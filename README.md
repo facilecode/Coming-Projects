@@ -68,3 +68,14 @@ Face images with nose (x,y) position
 
 | Export Drag-Drop model to a file | :x: |
 | ------ | ------ | 
+
+### Mobile App for University campus
+
+| Tasks               |   | | |
+| ------              | ------ | ------ | ------ |
+| Area classification | Tasks | Framework | State |
+|                     | Dataset | OpenCV  | :x: |
+|                     | Train   | PyTorch | :x: |
+|                     | Deploy  |  ?????  | :x: |
+| Virtual campus map  | Tasks |Framework | State |
+| Timetable access    | Tasks |Framework | State |
