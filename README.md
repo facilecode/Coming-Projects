@@ -47,7 +47,7 @@ Face images with nose position
 
 ### AI-Gui
 
-| | Framework | B
+| | Framework | 
 | ------ | ------ | ------ | 
 | Front | Vue |
 | Back | Python, Node |
