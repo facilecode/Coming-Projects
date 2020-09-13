@@ -5,7 +5,7 @@
 
 | Framework | Environment | State |
 | ------ | ------ | ------ |
-| Tensorflow | Python | non :X: |
+| Tensorflow | Python | non :x: |
 | Keras | Python | non |
 | PyTorch | Python | non |
 
