@@ -53,7 +53,7 @@ Face images with nose position
 
 
 | Task    | Classifier | Scenario | Framework | Convertible | State |
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | Image classification | NN  | Transfer Learning | PyTorch | | :x: |
 |                      |     |                   |         | Tensorflow | :x: |
 |                      |     |                   |         | Keras      | :x: |
