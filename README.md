@@ -16,7 +16,7 @@
 | Mobile | TFLite | Android  | non |
 |  | TFLite |  IOS | non |
 |  | TFLite |  Hybrid | non |
-|  | API | Cross platform | non | 
+|  | API | All | non | 
 | Browser | Tensorflow.js | Web | non |
 |  | onnx.js | Web | non |
 
@@ -30,5 +30,10 @@
 
 | Device | Framework | Platform | State |
 | ------ | ------ | ------ | ------ |
-| All | All | All  | non |
+| Mobile | TFLite | Android  | non |
+|  | TFLite |  IOS | non |
+|  | TFLite |  Hybrid | non |
+|  | API | All | non | 
+| Browser | Tensorflow.js | Web | non |
+|  | onnx.js | Web | non |
 
