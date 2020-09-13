@@ -48,10 +48,10 @@ Face images with nose position
 ### AI-Gui
 
 | | Framework | 
-| ------ | ------ | ------ | 
-| | Front | Vue |
-| | Back | Python, Node |
-| | DIstrobution | Electron |
+| ------ | ------ |
+| Front | Vue |
+| Back | Python, Node |
+| DIstrobution | Electron |
 
 
 | Task    | Model | Scenario | Framework | Convertible | State |
