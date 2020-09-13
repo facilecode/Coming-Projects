@@ -47,27 +47,24 @@ Face images with nose position
 
 ### AI-Gui
 
-| | Framework | Back | Distribution |
-| ------ | ------ | ------ |
+| | Framework | B
+| ------ | ------ | 
 | Front | Vue |
 | Back | Python, Node |
 | DIstrobution | Electron |
 
-| | Front | Back | Distribution |
-| ------ | ------ | ------ | ------ |
-|  | Vue | Python, Node | Electron |
 
-
-| Task    | Classifier | Scenario | Framework | Convertible | State |
+| Task    | Model | Scenario | Framework | Convertible | State |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | Image classification | NN  | Transfer Learning | PyTorch |            | :x: |
 |                      |     |                   |         | Tensorflow | :x: |
 |                      |     |                   |         | Keras      | :x: |
 |                      |     |                   |         | Onnx       | :x: |
-|                      | NN  | Custom  Net       | PyTorch |            | :x: |
+|                      | NN  | Custom Drag-Drop Net        | PyTorch |  | :x: |
 |                      |     |                   |         | Tensorflow | :x: |
 |                      |     |                   |         | Keras      | :x: |
 |                      |     |                   |         | Onnx       | :x: |
 |                      | SVM | Extractor-KNN     | Scikit-Learn |       | :x: |
 
-
+| Export Drag-Drop model to a file | :x: |
+| ------ | ------ | 
