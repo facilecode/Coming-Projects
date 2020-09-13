@@ -48,7 +48,7 @@ Face images with nose position
 ### AI-Gui
 
 | | Framework | B
-| ------ | ------ | 
+| ------ | ------ | ------ | 
 | Front | Vue |
 | Back | Python, Node |
 | DIstrobution | Electron |
