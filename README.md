@@ -4,6 +4,7 @@
 ### Train Image Classifier 
 
 | Simple Dataset | :x: |
+| ------ | ------ |
 
 | Framework | Environment | State |
 | ------ | ------ | ------ |
@@ -18,7 +19,7 @@
 | Mobile | TFLite | Android  | :x: |
 |  | TFLite |  IOS | :x: |
 |  | TFLite |  Hybrid | :x: |
-|  | API | All | non | 
+|  | API | All | :x: |
 | Browser | Tensorflow.js | Web | :x: |
 |  | onnx.js | Web | :x: |
 
@@ -27,6 +28,7 @@
 Face images with nose position
 
 | Custom Dataset | :x: |
+| ------ | ------ |
 
 | Framework | Environment | State |
 | ------ | ------ | ------ |
