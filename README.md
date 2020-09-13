@@ -31,7 +31,7 @@
 |  | TFLite |  IOS | :x: |
 |  | TFLite |  Hybrid | :x: |
 |  | API | All | :x: |
-| Browser | Tensorflow.js | Web | :x: |
+| Mobile/PC | Tensorflow.js | Web | :x: |
 |  | onnx.js | Web | :x: |
 
 ### Train custom model and deploy
