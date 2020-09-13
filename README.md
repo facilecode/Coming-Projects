@@ -45,3 +45,23 @@ Face images with nose position
 | Browser | Tensorflow.js | Web | :x: |
 |  | onnx.js | Web | :x: |
 
+### AI-Gui
+
+| | Front | Back | Distribution |
+| ------ | ------ | ------ | ------ |
+|  | Vue | Python, Node | Electron |
+
+
+| Task    | Classifier | Scenario | Framework | Convertible | State |
+| ------ | ------ | ------ | ------ |
+| Image classification | NN  | Transfer Learning | PyTorch | | :x: |
+|                      |     |                   |         | Tensorflow | :x: |
+|                      |     |                   |         | Keras      | :x: |
+|                      |     |                   |         | Onnx       | :x: |
+|                      | NN  | Custom  Net       | PyTorch | :x: |
+|                      |     |                   |         | Tensorflow | :x: |
+|                      |     |                   |         | Keras      | :x: |
+|                      |     |                   |         | Onnx       | :x: |
+|                      | SVM | Extractor-KNN     | Scikit-Learn |       | :x: |
+
+
