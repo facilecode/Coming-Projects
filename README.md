@@ -1,8 +1,7 @@
 
 # Upcoming-Projects
 
-### Mobile App for University campus <br></br>  <br></br>
- <br></br>
+### Mobile App for University campus <br></br> 
 
 | Tasks               |   | | |
 | ------              | ------ | ------ | ------ |
@@ -13,7 +12,9 @@
 | Virtual campus map  | Tasks |Framework | State |
 | Timetable access    | Tasks |Framework | State |
 
+<br></br> 
 ### Train Image Classifier 
+<br></br> 
 
 | Simple Dataset | :x: |
 | ------ | ------ |
@@ -24,7 +25,9 @@
 | Keras | Python | :x: |
 | PyTorch | Python | :x: |
 
+<br></br> 
 ### Deploy model on device
+<br></br> 
 
 | Device | Framework | Platform | State |
 | ------ | ------ | ------ | ------ |
@@ -35,7 +38,9 @@
 | Mobile/PC | Tensorflow.js | Web | :x: |
 |  | onnx.js | Web | :x: |
 
+<br></br> 
 ### Train custom model and deploy
+<br></br> 
 
 Face images with nose (x,y) position
 
@@ -57,7 +62,9 @@ Face images with nose (x,y) position
 | Browser | Tensorflow.js | Web | :x: |
 |  | onnx.js | Web | :x: |
 
+<br></br> 
 ### AI-Gui
+<br></br> 
 
 | | Framework | 
 | ------ | ------ |
