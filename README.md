@@ -25,7 +25,7 @@
 
 ### Train custom model and deploy
 
-Face images with nose position
+Face images with nose (x,y) position
 
 | Custom Dataset | :x: |
 | ------ | ------ |
