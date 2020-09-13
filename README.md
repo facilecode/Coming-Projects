@@ -18,6 +18,7 @@
 
 | Simple Dataset | :x: |
 | ------ | ------ |
+| Classes | hand-foot-head-other |
 
 | Framework | Environment | State |
 | ------ | ------ | ------ |
