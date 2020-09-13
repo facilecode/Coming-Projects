@@ -54,11 +54,11 @@ Face images with nose position
 
 | Task    | Classifier | Scenario | Framework | Convertible | State |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| Image classification | NN  | Transfer Learning | PyTorch | | :x: |
+| Image classification | NN  | Transfer Learning | PyTorch |            | :x: |
 |                      |     |                   |         | Tensorflow | :x: |
 |                      |     |                   |         | Keras      | :x: |
 |                      |     |                   |         | Onnx       | :x: |
-|                      | NN  | Custom  Net       | PyTorch | :x: |
+|                      | NN  | Custom  Net       | PyTorch |            | :x: |
 |                      |     |                   |         | Tensorflow | :x: |
 |                      |     |                   |         | Keras      | :x: |
 |                      |     |                   |         | Onnx       | :x: |
