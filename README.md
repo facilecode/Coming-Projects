@@ -51,7 +51,7 @@ Face images with nose position
 | ------ | ------ |
 | Front | Vue |
 | Back | Python, Node |
-| DIstrobution | Electron |
+| Distrobution | Electron |
 
 
 | Task    | Model | Scenario | Framework | Convertible | State |
